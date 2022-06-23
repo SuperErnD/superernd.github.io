@@ -1,0 +1,8 @@
+#content {
+    text-align: center;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+body {
+    background: rgb(0,176,44);
+    background: linear-gradient(0deg, rgba(0,176,44,1) 0%, rgba(45,133,253,1) 100%);
+}
